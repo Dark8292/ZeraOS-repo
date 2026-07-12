@@ -1,6 +1,6 @@
 # ZeraOS-repo
 
-The official package repository for [ZeraOS](https://github.com/Dark8292/ZeraOS).
+Official repository [ZeraOS](https://github.com/Dark8292/ZeraOS).
 
 ## Adding zeraos-repo to Arch Linux
 
